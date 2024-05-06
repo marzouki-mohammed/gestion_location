@@ -1,5 +1,5 @@
 # Gestion de Location de Voitures
-
+## la totalité de code dans la branche master
 ## Description
 
 Ce projet est une application de gestion de location de voitures développée en Java avec une base de données MySQL. L'application permet aux utilisateurs de gérer les clients, les véhicules et les locations, ainsi que d'effectuer des opérations de location, de retour .
@@ -9,14 +9,15 @@ Ce projet est une application de gestion de location de voitures développée en
 
 - une première interface de login
  le code (username : Marzouki,password : m2003)
-![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/e05ea126-1d2d-42c9-bab4-1b733f291da8)
+![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/1d60a0da-88e7-4d6d-98a6-94ffdd884a8d)
 - Ajouter, modifier , supprimer et affichez des clients.
-![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/c2dc4f12-40e5-4986-b5b4-c69e53ff4ec8)
+![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/6ad09cce-ac96-4fdd-b861-77c73d780207)
 - Ajouter, modifier, supprimer et affichez  des véhicules
-![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/ae11f932-b9a2-4258-81d9-0b970b8991d4)
+![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/3899685b-bbdc-456d-9457-e03fcb8062fa)
 - Effectuer des opérations de location de véhicules (Ajouter, affichez , supprimer) et le rotour de location.
-![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/d1d3fd5b-e06b-41a8-bd8b-110c76a5307f)
-![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/c3557db5-c241-438f-90a1-971f2d277708)
+![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/bc9c99ce-70c0-4b08-a78f-f320a10fec80)
+![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/90fcfb82-169a-45a6-abfb-eb8c9e783c59)
+
 
 
 
@@ -28,7 +29,7 @@ Ce projet est une application de gestion de location de voitures développée en
 - [Bibliothèque graphique JavaFX](https://openjfx.io/) pour l'interface utilisateur
 
 ## Captures d'écran de la base de données créée dans MySQL
-![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/a6f0a86a-003f-4ecb-afda-75bc599b05cb)
+![image](https://github.com/marzouki-mohammed/gestion_location/assets/168875780/3214d986-7d7e-479a-a8bf-fd0935a69edc)
 
 ## Installation
 
